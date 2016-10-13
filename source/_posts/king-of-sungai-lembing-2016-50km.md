@@ -93,6 +93,8 @@ Yeah!!! My first 50km
 
 ![Strava Result](https://scontent.fkul1-1.fna.fbcdn.net/v/t1.0-9/14117734_1102719533145468_8753485030233093813_n.jpg?oh=b59765c245ede7fa34d6953a26ee7b2a&oe=587F482E)
 
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/692204356/embed/78db40bd44e8cb891a2163c3b7627197c54a8899'></iframe>
+
 48km+ is because we skipped the scenery hill, due to safety issue _(raining that time)_
 
 ![Result in racetagpro](https://c6.staticflickr.com/9/8769/29591043301_9ce6ca743a_b.jpg)
