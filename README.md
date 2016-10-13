@@ -39,3 +39,21 @@ deploy:
 ```
 
 Now update _theme-level config_ according to the need
+
+## Deploy
+
+For testing purpose
+
+```
+$ hexo server
+```
+
+open up browser and type in the URL http://localhost:4000
+
+
+If deploy to server _(via `rsync`)_
+
+```
+$ hexo generate
+$ hexo deploy
+```
