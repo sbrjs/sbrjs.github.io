@@ -81,7 +81,7 @@ After digested my dinner, it's the time to re-fuel with protein & BodyKey.
 
 ![Powered by Nutrilite](https://c2.staticflickr.com/6/5456/30481345953_ddfec3f05c_k.jpg)
 
-Yeah!!!
+Yeah!!! I also prepared Phytopowder orange 2 sticks. Around 26 or 27km I drink while running/walking, that moment my leg muscle was tight. Until 30 or 31km, my leg feeling relief. Phytopowder is so powerful!!! I think is because of electrolytes, it's very helpful.
 
 ![On the way back from Butterworth](https://c1.staticflickr.com/6/5566/30921041160_3cd58d32d2_k.jpg)
 
@@ -104,6 +104,8 @@ Woo hoo!! At the end, I follow the _6:30_ balloon man cross the finishing line. 
 ![Finishing medal](https://c3.staticflickr.com/6/5760/30921030490_4ed28f3d59_k.jpg)
 
 Mission completed!!! again...
+
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/788038984/embed/a55d2cb881f0d6e5ca6d79e5016d6228cb601c6f'></iframe>
 
 ![Different category medals](/files/posts/penang-bridge-international-marathon-2016/images/pbim2016-medals.jpg)
 
