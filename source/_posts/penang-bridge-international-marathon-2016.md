@@ -140,3 +140,5 @@ Back in year 2014, I was so excited when I completed my first FM. Now, this is m
 I believe everyone has a target to pursue. Just like 3 years back, my target was 42km; now, I'm looking towards ultra race in 2017!
 
 _You can have a meaningful life if you have a dream to pursue_ 😎
+
+![PBIM 2016 certificate](/files/posts/penang-bridge-international-marathon-2016/images/result.png)
