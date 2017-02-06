@@ -5,6 +5,7 @@ My personal sport blog powered by [Hexo](https://hexo.io)
 ## Setup
 
 ```
+$ npm install hexo-cli -g
 $ git clone git@github.com:jslim89/sport-blog.git
 $ cd sport-blog
 $ npm install
