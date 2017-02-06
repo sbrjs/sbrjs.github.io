@@ -5,6 +5,8 @@ tags:
 - race
 - marathon
 - pbim
+thumbnail: https://c3.staticflickr.com/6/5760/30921030490_4ed28f3d59_k.jpg
+banner: https://c1.staticflickr.com/6/5611/30921034960_d3fd1820a2_b.jpg
 ---
 
 This is my 3rd year joining full marathon in PBIM. The 1st time I completed in 5:08 hours, that time was running on 2nd bridge. Last year I completed in 6:23 hours, due to injured on my ankle, and lack of training. This year, my finishing time almost same as last year.
@@ -110,10 +112,6 @@ Mission completed!!! again...
 ![Different category medals](/files/posts/penang-bridge-international-marathon-2016/images/pbim2016-medals.jpg)
 
 This year we have different size of medals —— **S**, **M**, **L**. Obviously, **S** is for 10km finisher, **M** is for 21km finisher, **L** is for 42km finisher.
-
-![BodyKey Community Event](https://c5.staticflickr.com/6/5485/31252678396_bb2b419198_k.jpg)
-
-We're participating in BodyKey Community Event. A nice group photo here. Everyone make it.
 
 ![Finishing medals](https://c1.staticflickr.com/6/5606/31144818472_34310fd0d9_k.jpg)
 

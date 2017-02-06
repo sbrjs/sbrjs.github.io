@@ -5,15 +5,13 @@ tags:
 - race
 - trail
 - night
+thumbnail: https://c1.staticflickr.com/9/8404/30143704065_98764af9dd_b.jpg
+banner: https://c1.staticflickr.com/9/8404/30143704065_98764af9dd_b.jpg
 ---
 
 My lucky number~
 
 ![Get the race bib](https://c8.staticflickr.com/9/8416/30069286071_ab1a7ce6ab_b.jpg)
-
-Well prepared before the race~
-
-![Into The Woods Night Trail](https://c6.staticflickr.com/9/8399/30143704165_ae72e5c6a7_b.jpg)
 
 After I register for this race _(alone)_, I was actually looking for some friends go with me. After asking a few friends, only she agree to join me.
 

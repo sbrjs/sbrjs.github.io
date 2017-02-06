@@ -5,6 +5,8 @@ tags:
 - race
 - trail
 - ultra
+thumbnail: https://c1.staticflickr.com/9/8173/29636842586_d8396d750f_b.jpg
+banner: https://c1.staticflickr.com/9/8550/29672403725_e5bee46a75_b.jpg
 ---
 
 ### What makes me join this run?
@@ -76,10 +78,6 @@ Eventually become 4 buddies, and they are really awesome~
 ![Closing to finish](https://c1.staticflickr.com/1/604/32625235361_31eb8b0597_b.jpg)
 
 Speed up…the last 200 meters.
-
-![Finished](https://c1.staticflickr.com/9/8550/29672403725_e5bee46a75_b.jpg)
-
-Finally, cross the finishing line!!!
 
 ![50km medal](https://c1.staticflickr.com/9/8475/29047813753_c339d1f652_b.jpg)
 
