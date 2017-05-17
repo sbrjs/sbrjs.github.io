@@ -9,8 +9,27 @@ tags:
 thumbnail: https://c1.staticflickr.com/5/4186/34646148886_0c9d3bfc67_z.jpg
 banner: https://c1.staticflickr.com/5/4186/34646148886_0c9d3bfc67_z.jpg
 ---
+<style>
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 30px; height: 0; overflow: hidden;
+}
+ 
+.video-container iframe,
+.video-container object,
+.video-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+</style>
 
-This was the hardest race I've ever join, also the longest hours race to me _(until today)_.
+This was the hardest race I've ever join, also the longest hours race to me _(until today)_. Here is the route:
+
+<p class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/X6JwVKhBedM" frameborder="0" allowfullscreen></iframe></p>
 
 ![Preparing race mandatory items](https://c1.staticflickr.com/5/4158/34646147066_c9e3cb76de_z.jpg)
 
