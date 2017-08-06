@@ -35,6 +35,8 @@ Of course, I have some experience running in the dark in trail, during ultra tra
 
 During the run, I felt a bit tired when going up hill. But I didn't stop at all, at most is slow down a bit, my mind is pretty clear, only one thing —— **_to get out of the trail_**. I didn't turn my head left or right, not even turn back, I don't care what is behind me, I only look in front, 1 meter in front, seldom look further distance. What I take care of is, 3~4 steps in front of me. From here, I understand a word —— **FOCUS**. I seldom so focus before. Is the FEAR make me focus, make me neglect of pain & tire...
 
+<iframe height="405" width="590" frameborder="0" allowtransparency="true" scrolling="no" src="https://www.strava.com/activities/1120136713/embed/33f0eef016bc55ef62634241164989199a6415cf"></iframe>
+
 Once I get out of the trail, I felt relieved. Once I reached home, I felt relax~ Really a great experience from this.
 
 After workout, sure need to take protein for faster recovery
