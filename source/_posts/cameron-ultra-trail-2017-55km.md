@@ -224,7 +224,7 @@ If a picture worth of thousand words, then a video must worth for million words.
 
 ![Result](https://farm5.staticflickr.com/4300/35940208442_6a86185b74_z.jpg)
 
-Here is my official result.
+Here is my official result, and [certificate](/files/posts/cameron-ultra-trail-2017-55km/result.pdf)
 
 ### Summary
 
