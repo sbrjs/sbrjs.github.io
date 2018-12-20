@@ -61,6 +61,7 @@ plugins:
     lightgallery: true # options: true, false
     justified-gallery: true # options: true, false
     google_analytics: UA-40118758-10
+    google_adsense: ca-pub-5448599905824559
     google_site_verification: # enter Google site verification code
     baidu_analytics: # enter Baidu Analytics hash key
 
