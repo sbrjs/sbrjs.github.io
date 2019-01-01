@@ -73,6 +73,8 @@ Finally, we back the the entrance. Here's **_after_** photo. Smile or cry 🤣
 
 Remember to checkout when back to the entrance, they need to ensure everyone are safe.
 
+<iframe height='405' width='100%' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/2047963049/embed/3d1348b7756802fcbaef470def42b4cf35ad5d11'></iframe>
+
 ## Summary
 
 Hiking can be one of the good choice in festive season
