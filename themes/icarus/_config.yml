@@ -14,7 +14,7 @@ customize:
         url: /files/img/logo.png
     profile:
         enabled: true # Whether to show profile bar
-        avatar: /files/img/avatar.png
+        avatar: /files/img/avatar/china-hike.png
         gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
         author: Js Lim
         author_title: Programmer, Athlete, ABO
