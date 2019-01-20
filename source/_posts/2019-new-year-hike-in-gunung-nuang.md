@@ -4,6 +4,8 @@ date: 2019-01-01 21:05:35
 tags:
 - hiking
 - gunung-nuang
+thumbnail: /files/posts/2019-new-year-hike-in-gunung-nuang/IMG_6006.JPG
+banner: /files/posts/2019-new-year-hike-in-gunung-nuang/IMG_6006.JPG
 ---
 
 What people usually do in new year? Shopping, stay at home, etc.

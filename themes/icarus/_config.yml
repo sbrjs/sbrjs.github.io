@@ -17,7 +17,7 @@ customize:
         avatar: /files/img/avatar/china-hike.png
         gravatar: # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
         author: Js Lim
-        author_title: Programmer, Athlete, ABO
+        author_title: Just me
         location: Petaling Jaya, Malaysia
         follow: https://instagram.com/js_fca
     highlight: monokai
@@ -28,8 +28,8 @@ customize:
         github: http://github.com/jslim89
         twitter: http://twitter.com/jslim89
         facebook: http://www.facebook.com/jsify
-        dribbble: /
-        rss: /
+        # dribbble: /
+        # rss: /
     social_link_tooltip: true # enable the social link tooltip, options: true, false
 
 # Widgets
