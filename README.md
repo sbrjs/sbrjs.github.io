@@ -1,6 +1,6 @@
-# jsify.com
+# JS Blog
 
-My personal sport blog powered by [Hexo](https://hexo.io)
+My personal blog powered by [Hexo](https://hexo.io)
 
 ## Setup
 
