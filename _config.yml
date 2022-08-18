@@ -4,8 +4,8 @@
 
 # Site
 title: Js' Journey
-subtitle:
-description:
+subtitle: My personal life journey
+description: Active in running, hiking, trail running, swimming, cycling, travel
 author: Js Lim
 language: en
 timezone: Asia/Kuala_Lumpur
@@ -80,8 +80,8 @@ theme: icarus
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: rsync
-  host: <host>
-  user: <user>
-  root: <document root>
-  port: <port number>
+  type: git
+  repo: git@github.com:sbrjs/sbrjs.github.io.git
+  branch: master
+  name: Js Lim
+  email: jslim89@gmail.com

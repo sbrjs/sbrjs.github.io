@@ -6,11 +6,10 @@ My personal blog powered by [Hexo](https://hexo.io)
 
 ```
 $ npm install hexo-cli -g
-$ git clone git@github.com:jslim89/sport-blog.git
-$ cd sport-blog
+$ git clone git@github.com:sbrjs/sbrjs.github.io.git
+$ cd sbrjs.github.io
 $ npm install
-$ npm install hexo-deployer-rsync --save
-$ git submodule update --init --recursive
+$ npm install hexo-deployer-git --save
 ```
 
 There are 2 config files
@@ -26,21 +25,6 @@ There are 2 config files
         └── source
 ```
 
-Duplicate both **_config.yml.example** to **_config.yml**
-
-Then update _source-level config_, the `deploy` section
-
-```
-deploy:
-  type: rsync
-  host: 111.222.333.444
-  user: username
-  root: /var/www/yoursite.com
-  port: 22
-```
-
-Now update _theme-level config_ according to the need
-
 ## Deploy
 
 For testing purpose
@@ -52,9 +36,5 @@ $ hexo server
 open up browser and type in the URL http://localhost:4000
 
 
-If deploy to server _(via `rsync`)_
+If deploy to server, automatically done by GitHub action
 
-```
-$ hexo generate
-$ hexo deploy
-```
