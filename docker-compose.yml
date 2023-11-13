@@ -1,0 +1,22 @@
+version: "3.8"
+
+services:
+  js-blog-hugo:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: "js-blog-hugo"
+    volumes:
+      - ./:/app
+    working_dir: /app
+    ports:
+      - "1313:1313"
+    networks:
+      - js-blog-network
+    entrypoint: ./entrypoint.sh
+
+#Docker Networks
+networks:
+  js-blog-network:
+    driver: bridge
+
