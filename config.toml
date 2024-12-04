@@ -5,7 +5,7 @@ theme = "blist"
 metaDataFormat = "yaml"
 timeZone = "Asia/Kuala_Lumpur"
 
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "zh"
 DefaultContentLanguageInSubdir = true
 [languages]
   [languages.en]
@@ -34,6 +34,37 @@ DefaultContentLanguageInSubdir = true
 
     [[languages.en.menu.main]]
         name = "Tags"
+        url = "tags"
+        weight = 4
+
+  [languages.zh]
+    contentDir = "content/zh" # Chinese
+    weight = 2
+    languageName = "中文"
+    title = "JS的旅程"
+    [languages.zh.params]
+      description = "关于跑步，爬山，旅行"
+      introTitle = "嗨！我是JS"
+      introSubtitle = "我的人生旅程"
+      introPhoto = "/img/avatar/china-hike.png"
+      logo = "/img/logo.png"
+    [[languages.zh.menu.main]]
+        name = "博客"
+        url = "blog"
+        weight = 1
+
+    [[languages.zh.menu.main]]
+        name = "关于"
+        url = "page/about/"
+        weight = 2
+
+    [[languages.zh.menu.main]]
+        name = "项目"
+        url = "page/races/"
+        weight = 3
+
+    [[languages.zh.menu.main]]
+        name = "标签"
         url = "tags"
         weight = 4
 
