@@ -1,4 +1,12 @@
-## How to copy map files to Garmin device - on macOS
+---
+title: How to copy map files to Garmin device on macOS
+date: 2024-12-04T20:55:35+08:00
+tags:
+- garmin
+thumbnail: /en/blog/how-to-copy-map-files-to-garmin-device-on-macos/Garmin-Tactix-Delta-Solar-Edition.webp
+banner: /en/blog/how-to-copy-map-files-to-garmin-device-on-macos/Garmin-Tactix-Delta-Solar-Edition.webp
+draft: false
+---
 
 I was refering to [this blog](https://www.dcrainmaker.com/2019/08/installing-garmin-forerunner.html) initially, and I've downlaoded the maps from [OpenTopoMap Garmin Maps](https://garmin.opentopomap.org/).
 
